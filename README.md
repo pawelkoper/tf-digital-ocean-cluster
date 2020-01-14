@@ -7,7 +7,7 @@ It assumes you have a Digital Ocean token ([here's how to get one](https://www.d
 ## How to run
 
 ```
-$ git clone git@github.com:ponderosa-io/tf-digital-ocean-cluster.git
+$ git clone https://github.com/pawelkoper/tf-digital-ocean-cluster.git
 $ export TF_VAR_do_token=<your_digital_ocean_token>
 $ export TF_VAR_do_cluster_name=<your_cluster_name>
 $ cd tf-digital-ocean-cluster
